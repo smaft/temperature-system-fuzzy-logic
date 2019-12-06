@@ -22,6 +22,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +36,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadData">
+  <component name="RunManager" selected="Application.UserInterface">
+    <configuration name="Fuzzy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fuzzy" />
+      <module name="TemperatureSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadData" />
       <module name="TemperatureSystem" />
@@ -43,8 +51,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="write.WriteExcel" />
+    <configuration name="UserInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserInterface" />
+      <module name="TemperatureSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution" />
+      <module name="TemperatureSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="userInterface" />
       <module name="TemperatureSystem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,8 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserInterface" />
+        <item itemvalue="Application.Fuzzyfikation" />
         <item itemvalue="Application.ReadData" />
-        <item itemvalue="Application.WriteExcel" />
+        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.userInterface" />
       </list>
     </recent_temporary>
   </component>
