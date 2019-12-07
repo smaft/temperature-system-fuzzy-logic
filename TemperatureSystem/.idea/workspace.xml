@@ -23,6 +23,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,8 +38,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.UserInterface">
-    <configuration name="Fuzzy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fuzzy" />
+    <configuration name="HelpWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelpWindow" />
       <module name="TemperatureSystem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,6 +77,7 @@
       <list>
         <item itemvalue="Application.UserInterface" />
         <item itemvalue="Application.ReadData" />
+        <item itemvalue="Application.HelpWindow" />
         <item itemvalue="Application.solution" />
         <item itemvalue="Application.userInterface" />
       </list>

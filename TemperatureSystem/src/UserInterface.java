@@ -113,12 +113,12 @@ public class UserInterface {
 
         // Akcja dla opcji "Korzystanie z aplikacji" w menu
         h1.addActionListener(actionEvent -> {
-
+            new HelpWindow();
         });
 
         // Akcja dla opcji "O autorach"
         h2.addActionListener(actionEvent -> {
-
+            new AboutWindow();
         });
 
         // Akcja zamknięcia okna
